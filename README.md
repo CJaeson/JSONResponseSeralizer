@@ -1,2 +1,3 @@
 # JSONResponseSeralizer
-获得http请求后台返回错误时候展示的错误信息
+主要是解决了AFNetworking请求接口后，后台将一些日志输出到返回的数据，导致工作台看不到错误信息的问题。
+
