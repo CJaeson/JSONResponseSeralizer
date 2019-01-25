@@ -1,0 +1,2 @@
+# JSONResponseSeralizer
+获得http请求后台返回错误时候展示的错误信息
